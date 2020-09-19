@@ -10,7 +10,7 @@ ReactDom.render(<div>
     <ul>
       <li>Ertugal Ghazi </li>
       <li>Usman  Ghazi </li>
-      <li>Talha  Ghazi </li>
+      <li>Talhda  Ghazi </li>
       <li>Teri Meri Khani  </li>
       <li>Test  </li>
 
