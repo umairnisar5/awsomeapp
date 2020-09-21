@@ -1,10 +1,12 @@
 import React from 'react';
 import ReactDom from 'react-dom';
 
-const flname = "Umair Nisar"
+const fname = "Umair"
+const lname = "Nisar"
 
-ReactDom.render(<div>
-    <h1>My name Is {flname}</h1>
+
+ReactDom.render(<>
+    <h1>{`My name Is ${fname} ${lname}`} </h1>
     <p>My Lucky number is {3 + 2}</p>
     <h2>Net Flex Series </h2>
     <ul>
@@ -17,6 +19,6 @@ ReactDom.render(<div>
 
     </ul>
 
-  <div/>,
+  </>,
   document.getElementById('root')
 );
